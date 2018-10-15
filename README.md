@@ -30,7 +30,7 @@ dApp Tutorial
 	
 	- https://www.youtube.com/watch?v=3681ZYbDSSk
 	
-	- this is tutorial is done on mac, but I did it on windows just fine, check out my notes
+	- this tutorial is done on mac, but I did it on windows just fine, check out my notes
 	
 	- at 1:12:39 I was able to understand everything I needed to deploy my dapp 
 	
