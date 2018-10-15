@@ -8,7 +8,7 @@ from the video for a React Dapp with IPFS given below. This version has a few ch
 structure. This version stores consecutively added files in Ethereum and IPFS, but the UI is written to show only 
 the most recently added.
 
-To run this code - given environment is set up by following the video dApp Tutorial listed below :
+To run this code (given environment is set up by following the video dApp Tutorial listed below) :
 
 	- cd to project root
 	
