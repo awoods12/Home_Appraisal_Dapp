@@ -1,11 +1,17 @@
 Ethereum 20min explanation 
+
 	- use this to understand Ethereum (optional but recommended)
+	
 	- https://www.youtube.com/watch?v=-_Qs0XdPpw8
 
 Dapp Tutorial 
+
 	- use this to learn everything you need to write dapps!
+	
 	- https://www.youtube.com/watch?v=3681ZYbDSSk
+	
 	- this is tutorial is done on mac, but I did it on windows just fine, check out my notes
+	
 	- at 1:12:39 I was able to understand everything I needed to deploy my dapp - make sure you connect meta mask to Ganache before trying to run your app in chrome
 
 	for Windows:
@@ -17,8 +23,12 @@ Dapp Tutorial
 		- I've never used Sublime, but it seems like it won't save stuff for me after a certain point unless i buy it (80$??), so I'm just using notepad++
 		- syntax must be very exact when running javascript in truffle console (spacing counts)
 
-Dapp React App with IPFS Tutorial - use this to understand my sample code and decentralize file storage with IPFS
+Dapp React App with IPFS Tutorial 
+	
+	- use this to understand my sample code and decentralize file storage with IPFS
+	
 	- https://www.youtube.com/watch?v=SkMH0WeRYtg
+	
 	- for anyone new to react, npm run start will launch your app at localhost:3000
 
 	issues I ran into:
