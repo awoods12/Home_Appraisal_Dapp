@@ -18,7 +18,8 @@ To run this code (given environment is set up by following the video dApp Tutori
 	
 	- truffle migrate --reset
 	
-	- npm run start - runs at localhost:3000
+	- npm run start 
+		~ runs at localhost:3000
 
 
 Ethereum 20min explanation 
