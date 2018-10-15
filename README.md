@@ -40,8 +40,8 @@ Dapp React App with IPFS Tutorial
 	issues I ran into:
 		- tutorial says to use truffle-config.js on windows, but my network wasn't 
 		identified until i used truffle.js
-		- I get different code when I unbox React, unboxing react from Truffle and 
-		trying to start from there (like tutorial) will force different approach than cloning mine or his project from git
+		- I get different code when I unbox React, unboxing react from Truffle and trying to 
+		start from there (like tutorial) will force different approach than cloning mine or his project from git
 	
 
 
