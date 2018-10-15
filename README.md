@@ -1,4 +1,4 @@
-Home Appraisal Decentralized App Challenge!
+Home Appraisal Decentralized App Challenge
 
 This is starter code for a Home Appraisal decentralized app (dApp) for Hackathon competitions. 
 Follow the tutorials below and read my notes to get an understand of how to develop dApps. 
