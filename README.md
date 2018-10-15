@@ -1,7 +1,9 @@
-Ethereum 20min explanation - use this to understand Ethereum (optional but recommended)
+Ethereum 20min explanation 
+	- use this to understand Ethereum (optional but recommended)
 	- https://www.youtube.com/watch?v=-_Qs0XdPpw8
 
-Dapp Tutorial - use this to learn everything you need to write dapps!
+Dapp Tutorial 
+	- use this to learn everything you need to write dapps!
 	- https://www.youtube.com/watch?v=3681ZYbDSSk
 	- this is tutorial is done on mac, but I did it on windows just fine, check out my notes
 	- at 1:12:39 I was able to understand everything I needed to deploy my dapp - make sure you connect meta mask to Ganache before trying to run your app in chrome
