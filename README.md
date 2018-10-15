@@ -1,10 +1,30 @@
+This is starter code for a Home Appraisal dApp for Hackathon competitions. Follow the tutorials below and read
+my notes to get an understand of how to develop dApps. This is set up for local development environments with
+Truffle and Ganache for Ethereum (so you can develop, deploy, and test easily without having to pay). 
+
+The code presented here is forked from https://github.com/dappuniversity/ipfs_image_uploader which is sample code
+from the video for a React Dapp with IPFS given below. This version has a few changes, mainly in the contract
+structure. This version stores consecutively added files in Ethereum and IPFS, but the UI is written to show only 
+the most recently added.
+
+To run this code - given environment is set up by following the video dApp Tutorial listed below :
+
+	- cd to project root
+	
+	- npm install
+	
+	- truffle migrate --reset
+	
+	- npm run start - runs at localhost:3000
+
+
 Ethereum 20min explanation 
 
 	- use this to understand Ethereum (optional but recommended)
 	
 	- https://www.youtube.com/watch?v=-_Qs0XdPpw8
 
-Dapp Tutorial 
+dApp Tutorial 
 
 	- use this to learn everything you need to write dapps!
 	
@@ -29,7 +49,7 @@ Dapp Tutorial
 		point unless i buy it (80$??), so I'm just using notepad++
 		- syntax must be very exact when running javascript in truffle console (spacing counts)
 
-Dapp React App with IPFS Tutorial 
+React dApp with IPFS Tutorial 
 	
 	- use this to understand my sample code and decentralize file storage with IPFS
 	
