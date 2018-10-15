@@ -49,8 +49,7 @@ dApp Tutorial
 	issues I ran into (on Windows):
 		- make sure pragma solidity version for 2_deploy_contracts.js is the same as the one you 
 		get in 1_initial_migration.js when you unbox (e.g. pragma solidity ^0.4.24;)
-		- I've never used Sublime, but it seems like it won't save stuff for me after a certain 
-		point unless i buy it (80$??), so I'm just using notepad++
+		- I'm not using Sublime, don't think you need it for syntax help in solidity
 		- syntax must be very exact when running javascript in truffle console (spacing counts)
 
 React dApp with IPFS Tutorial 
