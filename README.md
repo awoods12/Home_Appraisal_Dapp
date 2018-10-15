@@ -1,6 +1,7 @@
-This is starter code for a Home Appraisal dApp for Hackathon competitions. Follow the tutorials below and read
-my notes to get an understand of how to develop dApps. This is set up for local development environments with
-Truffle and Ganache for Ethereum (so you can develop, deploy, and test easily without having to pay). 
+This is starter code for a Home Appraisal decentralized app (dApp) for Hackathon competitions. 
+Follow the tutorials below and read my notes to get an understand of how to develop dApps. 
+This is set up for local development environments with Truffle and Ganache for Ethereum (so 
+you can develop, deploy, and test easily without having to pay). 
 
 The code presented here is forked from https://github.com/dappuniversity/ipfs_image_uploader which is sample code
 from the video for a React Dapp with IPFS given below. This version has a few changes, mainly in the contract
